@@ -1,0 +1,168 @@
+{
+  "functions": {
+    "pages/api/auth/saml/authorize.ts": {
+      "memory": 3008,
+      "maxDuration": 60
+    },
+    "pages/api/auth/saml/callback.ts": {
+      "memory": 3008,
+      "maxDuration": 60
+    },
+    "pages/api/auth/saml/token.ts": {
+      "memory": 3008,
+      "maxDuration": 60
+    },
+    "pages/api/auth/saml/userinfo.ts": {
+      "memory": 3008,
+      "maxDuration": 60
+    },
+    "pages/api/auth/two-factor/totp/disable.ts": {
+      "memory": 3008,
+      "maxDuration": 60
+    },
+    "pages/api/auth/two-factor/totp/enable.ts": {
+      "memory": 3008,
+      "maxDuration": 60
+    },
+    "pages/api/auth/two-factor/totp/setup.ts": {
+      "memory": 3008,
+      "maxDuration": 60
+    },
+    "pages/api/auth/[...nextauth].ts": {
+      "memory": 3008,
+      "maxDuration": 60
+    },
+    "pages/api/auth/changepw.ts": {
+      "memory": 3008,
+      "maxDuration": 60
+    },
+    "pages/api/auth/forgot-password.ts": {
+      "memory": 3008,
+      "maxDuration": 60
+    },
+    "pages/api/auth/reset-password.ts": {
+      "memory": 3008,
+      "maxDuration": 60
+    },
+    "pages/api/auth/setup.ts": {
+      "memory": 3008,
+      "maxDuration": 60
+    },
+    "pages/api/auth/signup.ts": {
+      "memory": 3008,
+      "maxDuration": 60
+    },
+    "pages/api/availability/[user].ts": {
+      "memory": 3008,
+      "maxDuration": 60
+    },
+    "pages/api/availability/calendar.ts": {
+      "memory": 3008,
+      "maxDuration": 60
+    },
+    "pages/api/book/event.ts": {
+      "memory": 3008,
+      "maxDuration": 60
+    },
+    "pages/api/book/request-reschedule.ts": {
+      "memory": 3008,
+      "maxDuration": 60
+    },
+    "pages/api/cron/workflows/scheduleEmailReminders.ts": {
+      "memory": 3008,
+      "maxDuration": 60
+    },
+    "pages/api/cron/workflows/scheduleSMSReminders.ts": {
+      "memory": 3008,
+      "maxDuration": 60
+    },
+    "pages/api/cron/bookingReminders.ts": {
+      "memory": 3008,
+      "maxDuration": 60
+    },
+    "pages/api/cron/downgradeUsers.ts": {
+      "memory": 3008,
+      "maxDuration": 60
+    },
+    "pages/api/import/calendly.ts": {
+      "memory": 3008,
+      "maxDuration": 60
+    },
+    "pages/api/import/savvycal.ts": {
+      "memory": 3008,
+      "maxDuration": 60
+    },
+    "pages/api/integrations/stripepayment/webhook.ts": {
+      "memory": 3008,
+      "maxDuration": 60
+    },
+    "pages/api/integrations/[...args].ts": {
+      "memory": 3008,
+      "maxDuration": 60
+    },
+    "pages/api/intent-username/index.ts": {
+      "memory": 3008,
+      "maxDuration": 60
+    },
+    "pages/api/schedule/index.ts": {
+      "memory": 3008,
+      "maxDuration": 60
+    },
+    "pages/api/sync/helpscout/index.ts": {
+      "memory": 3008,
+      "maxDuration": 60
+    },
+    "pages/api/teams/[team]/invite.ts": {
+      "memory": 3008,
+      "maxDuration": 60
+    },
+    "pages/api/teams/[team]/membership.ts": {
+      "memory": 3008,
+      "maxDuration": 60
+    },
+    "pages/api/teams/[team]/profile.ts": {
+      "memory": 3008,
+      "maxDuration": 60
+    },
+    "pages/api/teams/[team]/upgrade.ts": {
+      "memory": 3008,
+      "maxDuration": 60
+    },
+    "pages/api/trpc/trpc.ts": {
+      "memory": 3008,
+      "maxDuration": 60
+    },
+    "pages/api/user/[id].ts": {
+      "memory": 3008,
+      "maxDuration": 60
+    },
+    "pages/api/user/avatar.ts": {
+      "memory": 3008,
+      "maxDuration": 60
+    },
+    "pages/api/user/me.ts": {
+      "memory": 3008,
+      "maxDuration": 60
+    },
+    "pages/api/user/membership.ts": {
+      "memory": 3008,
+      "maxDuration": 60
+    },
+    "pages/api/user/profile.ts": {
+      "memory": 3008,
+      "maxDuration": 60
+    },
+    "pages/api/cancel.ts": {
+      "memory": 3008,
+      "maxDuration": 60
+    },
+    "pages/api/collect-events.ts": {
+      "memory": 3008,
+      "maxDuration": 60
+    },
+    "pages/api/email.ts": {
+      "memory": 3008,
+      "maxDuration": 60
+    }
+  }
+}
